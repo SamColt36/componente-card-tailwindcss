@@ -49,11 +49,11 @@ Este projeto apresenta um **tema dark** que pode ser ativado na configuração d
 
 ## Contribuição
 
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/seu-repositorio/issues) ou enviar uma solicitação de **pull request**.
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar uma solicitação de **pull request**.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://chat.openai.com/LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://mit-license.org/) para obter detalhes.
 
 ## Em produção
 
