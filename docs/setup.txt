@@ -1,0 +1,4 @@
+- Depois de modificar o arquivo 'tailwind.config.js' há de se resetar o arquivo de estilo './dist/output.css'
+npx tailwindcss -c tailwind.config.js -i ./dist/input.css -o ./dist/output.css -w
+
+Obs: O arquivo 'tailwind.config.js' deve estar na raiz do projeto; 
