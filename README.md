@@ -53,7 +53,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma [issu
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](https://chat.openai.com/LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://chat.openai.com/LICENSE.md) para obter detalhes.
 
 ## Em produção
 
