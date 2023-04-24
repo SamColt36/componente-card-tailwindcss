@@ -57,4 +57,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Em produção
 
-Este projeto está em produção.
+Este projeto está em produção. Para ver como está ficando acesse o [link](https://samcolt36.github.io/componente-card-tailwindcss/).
