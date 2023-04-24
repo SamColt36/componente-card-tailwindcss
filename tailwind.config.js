@@ -17,7 +17,11 @@ module.exports = {
         sm: { min: "320px", max: "425px" },
         // => @media and (min-width: 320px) and (max-width: 425px) { ... }
       },
+      colors: {
+        background: "#23263A",
+        laranja: "#FF6234",
+      },
+      plugins: [],
     },
-    plugins: [],
   },
 };
